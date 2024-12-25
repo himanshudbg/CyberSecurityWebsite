@@ -1,0 +1,24 @@
+{
+    "header": {
+        "heading": "our mission",
+        "title": "We Tackle Complex Challenges with Tailored Solutions",
+        "highlight": "Complex Challenges"
+    },
+    "services": [
+        {
+            "iconClass": "fa-solid fa-headset",
+            "title": "Backup & Recovery",
+            "description": "Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment."
+        },
+        {
+            "iconClass": "fa-solid fa-unlock",
+            "title": "Full Server Security",
+            "description": "Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment."
+        },
+        {
+            "iconClass": "fa-solid fa-power-off",
+            "title": "Backup & Recovery",
+            "description": "Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment."
+        }
+    ]
+}

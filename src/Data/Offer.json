@@ -1,0 +1,13 @@
+{
+    "header": "what we offer",
+    "services": [
+        {"number": "01", "title": "Backup & Recovery"},
+        {"number": "02", "title": "Backup & Recovery"},
+        {"number": "03", "title": "Network Service"},
+        {"number": "04", "title": "Backup & Recovery"},
+        {"number": "05", "title": "Stability Fixes"},
+        {"number": "06", "title": "Backup & Recovery"}
+    ],
+    "buttonText": "About Service",
+    "buttonLink": "#"
+}

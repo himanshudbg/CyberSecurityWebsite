@@ -1,0 +1,17 @@
+{
+    "menus": [
+        {"title": "About Us", "link": "#"},
+        {"title": "Plans", "link": "#"},
+        {"title": "How It Work", "link": "#"},
+        {"title": "FAQ", "link": "#"},
+        {"title": "Contact", "link": "#"}
+    ],
+    "content":
+    {
+        "headline": "A Cyber Attack Can",
+        "highlight": "Hit Any Company",
+        "description": "At the end of the day, going forward, a new normal <br> that has evolved from generation X is on the runway <br> heading towards a streamlined cloud solution.",
+        "buttonText": "what we offer",
+        "buttonLink": "#"
+    }
+}
